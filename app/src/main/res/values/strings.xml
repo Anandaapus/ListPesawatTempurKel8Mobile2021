@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ListPesawatKel8Mobile2021</string>
+    <string name="nama_pesawat">Nama Pesawat (2001)</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+
+    <string-array name="data_nama">
+        <item>Sukhoi SU-30</item>
+        <item>Mikoyan MiG-29</item>
+        <item>Saab JAS 39</item>
+        <item>McDonnell Douglas F-15</item>
+        <item>FairChild Republic A-10</item>
+        <item>Sukhoi SU-34</item>
+        <item>Lockheed Martin F-22</item>
+        <item>Lockhead Martin F-16</item>
+        <item>EF2000</item>
+        <item>Chengdu J-7</item>
+    </string-array>
+
+    <string-array name="data_tahun">
+        <item>1996</item>
+        <item>1982</item>
+        <item>1996</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>2014</item>
+        <item>2005</item>
+        <item>1978</item>
+        <item>1966</item>
+        <item>2003</item>
+    </string-array>
+
+    <string-array name="data_julukan">
+        <item>Flanker</item>
+        <item>Fulcrum</item>
+        <item>Gripen</item>
+        <item>Eagle</item>
+        <item>Thunderbolt</item>
+        <item>Fullback</item>
+        <item>Raptor</item>
+        <item>Falcon</item>
+        <item>Fishcan</item>
+        <item>Typhoon</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/flanker</item>
+        <item>@drawable/fulcrum</item>
+        <item>@drawable/gripen</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/thunderbolt</item>
+        <item>@drawable/fullback</item>
+        <item>@drawable/raptor</item>
+        <item>@drawable/falcon</item>
+        <item>@drawable/fishcan</item>
+        <item>@drawable/typhoon</item>
+    </array>
+</resources>
